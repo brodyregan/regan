@@ -1,11 +1,7 @@
 ---
-title: "Brody Regan"
+title: "Brody"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+::: {#bio}
+Hi, I am Brody Regan, a 3rd-year Environmental Studies student at the University of California, Santa Barbara.
+:::
