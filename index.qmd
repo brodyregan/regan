@@ -1,5 +1,5 @@
 ---
-title: "Brody"
+title: "Brody Regan"
 ---
 
 ::: {#bio}
