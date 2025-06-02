@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: litera
     css: styles.css
     toc: true
     page-layout: full
