@@ -6,24 +6,17 @@ title-block-banner: true
 
 ## Music
 
-::::::: columns
-:::::: {.column}
-\![Image 1](images/IMG_0195.jpg)
 
-<div>
-
-::: {.column width="60%"
-
+::: {.columns}
+::: {.column width="40%"}
+![Image 1](images/IMG_0195.jpg)
+:::
+::: {.column width="60%"}
 Music has always been a significant part of my life. I began taking drum lessons at the age of 9 and have been hooked ever since.
+:::
+:::
 
-<div>
 
-<div>
 
-</div>
 
-</div>
 
-</div>
-::::::
-:::::::
