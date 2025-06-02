@@ -8,10 +8,35 @@ title-block-banner: true
 
 ::::: columns
 ::: {.column width="40%"}
-![Playing a band show in Isla Vista](images/IMG_0195.jpg)
+![Band show in Isla Vista](images/IMG_0195.jpg)
 :::
 
-::: {.column width="60%"}
-Music has always been a significant part of my life. I began taking drum lessons at the age of 9 and have been hooked ever since.
+::: {.column width="60%" style="padding-left: 30px;"}
+Music has always been a significant part of my life. My dad's love for music had a huge impact on me and I began taking drum lessons at the age of 9. I have been hooked ever since. In 2020, I also picked up the bass guitar and started teaching myself. Since then I have played in about 5 bands switching between bass and drums.
+:::
+:::::
+
+## Surfing
+
+::::: columns
+::: {.column width="60%" style="padding-right: 30px;"}
+Growing up in San Diego, California, I have loved going to the beach and spending time in the water. When the Covid lock down occurred, I had lots of free time to surf and play music. Since then, I try to get in the water at least once a week and have been fortunate enough to have gone a couple surf trips in Mexico.
+:::
+
+
+::: {.column width="40%"}
+![Baja California, Mexico](images/IMG_0555.jpg)
+:::
+:::::
+
+## Personal Research
+
+::::: columns
+::: {.column width="40%"}
+![Palmyra Atoll. Credit: Nasa Earth Observatory](images/palmyra.jpg)
+:::
+
+::: {.column width="60%" style="padding-left: 30px;"}
+Through the Caselle Lab at UCSB, I am beginning a personal research project. I am using data taken at Palmyra Atoll, an island in the Central Pacific. The data includes 3d models of coral reef sections and fish videos, both taken at respective exclusion cages. The goal of this project is to identify the relationship surgeon and damsel fish have with coral reef recovery rates. 
 :::
 :::::
