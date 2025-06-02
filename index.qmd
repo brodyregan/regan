@@ -4,6 +4,7 @@ about:
   id: hero-heading
   template: trestles
   image: images/IMG_3644.jpg
+  image-width: 30em
   links:
     - icon: instagram
       text: Instagram
