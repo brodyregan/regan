@@ -1,9 +1,11 @@
 ---
-title: "Project"
-subtitle: "Displayed below is the code and figure from data used in the ENVS 193DS course at UCSB "
+title: "Projects"
+subtitle: "Here are projects I have done over the last couple months"
 title-block-banner: true
 format: html
 ---
+
+## Code: Displayed below is the code and figure from data used in the ENVS 193DS course at UCSB
 
 ![Code Input for the Problem](images/code.jpg){width="100%"}
 
@@ -24,3 +26,21 @@ In this problem, I worked with a data set from "Rocha, A. 2021: Tussock height a
 In my code, I loaded the data set and summary statistics which included the mean, standard error, and individual data points. Using the ggplot function, I created a jitter plot with the mean and standard error. Within the code, I adjusted the colors, jitter offset, theme, labels, mean/standard error aesthetics, and more. 
 
 Creating a jitter plot allowed me to visually see the difference in means. It effectively worked in this situation because there were only to sites to compare and the data was normally distributed. The mean is an important aspect to compare because it provides the best idea as to what the population is generally like. The standard error is also important to include because it [gives a clue to how accurate the mean is and how wide the data range is provides precision and variability of the mean. Based on the visualization, it appears that on average, tussocks grow taller after a fire.  
+
+## ASTER Data: Displayed below is an individual project I created for an Earth Science class 
+
+![Shell Reef ASTER Map](images/Shell Reef ASTER 1.jpg)
+
+
+
+<br><br>
+
+
+
+![Split Mountain Topography Map](images/Split Mountain Topo.jpg)
+
+These are figures from my independent project from the Earth 104G course at UCSB. My goal was determine geological factors that influence composition and structure of formations in the Anza Borrego region, Southern California. 
+
+In the first map, I used NASA ASTER data to create an overlay of different types of sedimentary rocks shown by the different colors. RASTER Math equations allowed me to take multiple ASTER images and create an RBG image. Based on historical data, we can see how the different compositions of rocks correlate with where ancient river and ocean beds used to be.   
+
+In the second map, I used Digital Elevation Maps from the USGS data system to create a topography map in QGIS. Using other functions, I show where water drains giving insight about how rainfall and rivers formed the divide down the center of the moutain range.
