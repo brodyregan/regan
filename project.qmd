@@ -27,6 +27,22 @@ In my code, I loaded the data set and summary statistics which included the mean
 
 Creating a jitter plot allowed me to visually see the difference in means. It effectively worked in this situation because there were only to sites to compare and the data was normally distributed. The mean is an important aspect to compare because it provides the best idea as to what the population is generally like. The standard error is also important to include because it [gives a clue to how accurate the mean is and how wide the data range is provides precision and variability of the mean. Based on the visualization, it appears that on average, tussocks grow taller after a fire.  
 
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+
+
+
+
+
 ## ASTER Data: Displayed below is an individual project I created for an Earth Science class 
 
 ![Shell Reef ASTER Map](images/Shell Reef ASTER 1.jpg)
