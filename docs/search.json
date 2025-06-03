@@ -54,5 +54,12 @@
     "title": "About Me",
     "section": "Personal Research",
     "text": "Personal Research\n\n\n\n\n\nPalmyra Atoll. Credit: Nasa Earth Observatory\n\n\n\nThrough the Caselle Lab at UCSB, I am beginning a personal research project. I am using data taken at Palmyra Atoll, an island in the Central Pacific. The data includes 3d models of coral reef sections and fish videos, both taken at respective exclusion cages. The goal of this project is to identify the relationship surgeon and damsel fish have with coral reef recovery rates."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Code Input for the Problem\n\n\n\n\n\n\nFigure 1: Burned sites tend to have larger tussock heights. Data Source: Rocha, A. 2021, Tussok Height csv. Points represent observations of average tussock height (cm) at site location (burned or unburned). The center black dots represent the mean height, and the bars represent the standard error, both respective to their site. Colors represent site (red = burned, dark green = unburned)."
   }
 ]

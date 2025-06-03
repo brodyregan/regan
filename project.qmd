@@ -1,4 +1,17 @@
 ---
 title: "Project"
+subtitle: "Displayed below is the code and figure from data used in the ENVS 193DS course at UCSB "
+title-block-banner: true
 format: html
 ---
+
+![Code Input for the Problem](images/code.jpg){width="100%"}
+
+
+
+<br><br>
+
+
+
+![Figure 1: Burned sites tend to have larger tussock heights.
+Data Source: Rocha, A. 2021, Tussok Height csv. Points represent observations of average tussock height (cm) at site location (burned or unburned). The center black dots represent the mean height, and the bars represent the standard error, both respective to their site. Colors represent site (red = burned, dark green = unburned).](images/output.jpg){width="90%"}
